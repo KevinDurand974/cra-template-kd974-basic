@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-kd974-basic",
+  "version": "1.0.0",
+  "description": "ReactJS Template with ESLint. Contains, React-Router-Dom and Sass as dep, Prettier, Eslint and co as dev dep.",
+  "author": "Kevin Durand",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "main": "template.json",
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "keywords": [
+    "react", "create-react-app", "template", "shirosfx", "eslint", "prettier", "react", "router-dom", "sass", "scss"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KevinDurand974/cra-template-kd974-basic",
+    "directory": "/"
+  },
+  "bugs": {
+    "url": "https://github.com/KevinDurand974/cra-template-kd974-basic/issues"
+  }
+}
