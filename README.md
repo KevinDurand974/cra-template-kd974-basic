@@ -135,13 +135,13 @@ These command fix eslint to work with prettier. I don't know why its required bu
 - [Default Template](https://github.com/facebook/create-react-app/tree/main/packages/cra-template) – Template installed if no template option passed.
 - [Cra-Template](https://github.com/facebook/create-react-app) – Used in the official Create React App
 
-[contributors-shield]: https://img.shields.io/github/contributors/KevinDurand974/cra-template-kd974-eslint.svg?style=for-the-badge
-[contributors-url]: https://github.com/KevinDurand974/cra-template-kd974-eslint/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/KevinDurand974/cra-template-kd974-eslint.svg?style=for-the-badge
-[forks-url]: https://github.com/KevinDurand974/cra-template-kd974-eslint/network/members
-[stars-shield]: https://img.shields.io/github/stars/KevinDurand974/cra-template-kd974-eslint.svg?style=for-the-badge
-[stars-url]: https://github.com/KevinDurand974/cra-template-kd974-eslint/stargazers
-[issues-shield]: https://img.shields.io/github/issues/KevinDurand974/cra-template-kd974-eslint.svg?style=for-the-badge
-[issues-url]: https://github.com/KevinDurand974/cra-template-kd974-eslint/issues
-[license-shield]: https://img.shields.io/github/license/KevinDurand974/cra-template-kd974-eslint.svg?style=for-the-badge
-[license-url]: https://github.com/KevinDurand974/cra-template-kd974-eslint/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/KevinDurand974/cra-template-kd974-basic.svg?style=for-the-badge
+[contributors-url]: https://github.com/KevinDurand974/cra-template-kd974-basic/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/KevinDurand974/cra-template-kd974-basic.svg?style=for-the-badge
+[forks-url]: https://github.com/KevinDurand974/cra-template-kd974-basic/network/members
+[stars-shield]: https://img.shields.io/github/stars/KevinDurand974/cra-template-kd974-basic.svg?style=for-the-badge
+[stars-url]: https://github.com/KevinDurand974/cra-template-kd974-basic/stargazers
+[issues-shield]: https://img.shields.io/github/issues/KevinDurand974/cra-template-kd974-basic.svg?style=for-the-badge
+[issues-url]: https://github.com/KevinDurand974/cra-template-kd974-basic/issues
+[license-shield]: https://img.shields.io/github/license/KevinDurand974/cra-template-kd974-basic.svg?style=for-the-badge
+[license-url]: https://github.com/KevinDurand974/cra-template-kd974-basic/blob/main/LICENSE
