@@ -108,8 +108,7 @@ logo_fullpath
 
 ## Getting Started
 
-This project use Node version >= 16.<br>
-This is the new **Recommanded** version, so upgrade as fast as possible.
+This project use Node version >= 14.<br>
 
 - ### Prerequisites
 

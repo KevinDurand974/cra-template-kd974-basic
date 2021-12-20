@@ -1,6 +1,6 @@
 {
   "name": "cra-template-kd974-basic",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ReactJS Template with ESLint. Contains, React-Router-Dom and Sass as dep, Prettier, Eslint and co as dev dep.",
   "author": "Kevin Durand",
   "license": "MIT",

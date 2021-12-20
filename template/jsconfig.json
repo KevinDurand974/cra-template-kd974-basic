@@ -1,24 +1,20 @@
 {
   "compilerOptions": {
-    "module": "CommonJS",
-    "target": "ES2021",
-    "moduleResolution": "classic",
-    "baseUrl": "./src",
+    "baseUrl": ".",
     "paths": {
-      "api": ["./api"],
-      "api/*": ["./api/*"],
-      "components": ["./components"],
-      "components/*": ["./components/*"],
-      "contexts": ["./contexts"],
-      "contexts/*": ["./contexts/*"],
-      "hooks": ["./hooks"],
-      "hooks/*": ["./hooks/*"],
-      "pages": ["./pages"],
-      "pages/*": ["./pages/*"],
-      "images/*": ["./assets/images/*"],
-      "icons/*": ["./assets/icons/*"]
+      "api": ["./src/api"],
+      "api/*": ["./src/api/*"],
+      "components": ["./src/components"],
+      "components/*": ["./src/components/*"],
+      "contexts": ["./src/contexts"],
+      "contexts/*": ["./src/contexts/*"],
+      "hooks": ["./src/hooks"],
+      "hooks/*": ["./src/hooks/*"],
+      "pages": ["./src/pages"],
+      "pages/*": ["./src/pages/*"],
+      "images/*": ["./src/assets/images/*"],
+      "icons/*": ["./src/assets/icons/*"]
     }
   },
-  "exclude": ["node_modules", "dist", "build"],
-  "noEmit": true
+  "exclude": ["node_modules", "dist", "build"]
 }
